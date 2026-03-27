@@ -1,10 +1,7 @@
-# 🚀 Guía Completa de Git y GitHub (Básico + Profesional)
+# 🚀 Guía Completa de Git, GitHub, Oracle Developer Tools for Visual Studio y Npgsql con PostgreSQL
 
-![GitHub repo size](https://img.shields.io/github/repo-size/usuario/repositorio)
-![GitHub last commit](https://img.shields.io/github/last-commit/usuario/repositorio)
-![GitHub issues](https://img.shields.io/github/issues/usuario/repositorio)
-![GitHub stars](https://img.shields.io/github/stars/usuario/repositorio?style=social)
-
+![ Oracle Developer Tools for Visual Studio 2019 - 2022](https://www.oracle.com/es/database/technologies/developer-tools/visual-studio)
+![Npgsql con PostgreSQL](https://marketplace.visualstudio.com/items?itemName=RojanskyS.NpgsqlPostgreSQLIntegration)
 ---
 
 ## 📌 Descripción
